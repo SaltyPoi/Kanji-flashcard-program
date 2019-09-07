@@ -35,9 +35,9 @@ export const FlashCard: React.FC<Props> = ({
         <div className="flash-card">
             <div id="kanji-header">{kanji}</div>
             <MeaningInput meanings={meanings} />
-            <h1>
+            <h2>
                 Character: {currentCardIndex}/{numberOfCards}
-            </h1>
+            </h2>
             <div className="meanings">
                 <h3>{showMeanings && meanings.join(', ')}</h3>
             </div>

@@ -55,7 +55,9 @@ body * {
             }
 
             &:disabled {
-                color: #777777;
+                line {
+                    stroke: #777777;
+                }
             }
 
             &:hover:enabled {
@@ -76,7 +78,7 @@ svg#close > line {
 
 svg#maximize > line {
     stroke-width: 4px;
-    stroke: white;
+    stroke: #777777;
 }
 
 svg#minimize > line {
@@ -94,17 +96,16 @@ svg#minimize > line {
 
         .flash-card {
             #kanji-header {
-                font-size: 200px;
+                font-size: 170px;
                 text-align: center;
-                margin-bottom: 10px;
-                user-select: text;
+                margin-bottom: 20px;
             }
         }
 
         #meaning-input-form {
             text-align: center;
             #meaning-input {
-                margin: 0 auto;
+                margin: 0 auto 10px auto;
                 display: inline-block;
                 width: 40%;
                 min-width: 300px;
@@ -148,7 +149,14 @@ svg#minimize > line {
         }
 
         &:disabled {
-            background-color: lighten(#3a3a3a, 15);
+            color: #999999;
         }
+    }
+
+    #copy-to-clipboard-button {
+        position: absolute;
+        top: 60px;
+        left: 10px;
+        display: inline-block;
     }
 }
