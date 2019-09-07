@@ -7,7 +7,7 @@ import { getDeck, nextCard } from '../../store/actions/deckActions';
 import { deckReducerState } from '../../store/reducers/deckReducer';
 import { rootReducerState } from '../../store/rootReducer';
 import { deckType } from '../../typings/common';
-import { FlashCard } from './FlashCard';
+import FlashCard from './FlashCard';
 
 interface StateProps {
     deck: deckReducerState;
@@ -26,11 +26,7 @@ export const FlashCardsContainer: React.FC<Props> = ({
     return (
         <div className="flash-card-container">
             {currentCard && (
-                <FlashCard
-                    card={currentCard}
-                    currentCardIndex={currentCardIndex}
-                    numberOfCards={numberOfCards}
-                />
+                <FlashCard currentCardIndex={currentCardIndex} numberOfCards={numberOfCards} />
             )}
         </div>
     );
@@ -45,4 +41,7 @@ const mapDispatchToProps = (dispatch) => ({
     nextCard: dispatch(nextCard())
 });
 
-export default connect(mapStateToProps, { ...mapDispatchToProps, getDeck })(FlashCardsContainer);
+export default connect<StateProps, DispatchProps>(mapStateToProps, {
+    ...mapDispatchToProps,
+    getDeck
+})(FlashCardsContainer);

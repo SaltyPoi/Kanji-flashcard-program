@@ -26,9 +26,12 @@ const IconMinimize: JSX.Element = (
 
 // TODO change svg
 const IconPinned: JSX.Element = (
-    <svg id="minimize" height="48" width="48">
-        <line x1="23" y1="10" x2="23" y2="32" />
-        <line x1="25" y1="10" x2="25" y2="32" />
+    <svg id="pinned" height="500" width="500">
+        <svg id="pin" height="500" width="500">
+            <line x1="140" y1="180" x2="320" y2="360" />
+            <line x1="211" y1="289" x2="100" y2="400" />
+            <polygon points="216,204 280,90 410,220 296,284" />
+        </svg>
     </svg>
 );
 

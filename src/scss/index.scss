@@ -35,40 +35,39 @@ body * {
         color: white;
         display: inline-block;
     }
-
-    .title-bar-button {
+    button {
+        color: white;
+        border: 1px solid rgb(85, 85, 85);
+        height: 50px;
+        width: 50px;
+        font-size: 40px;
+        padding: 0;
         -webkit-app-region: no-drag;
         background-color: #3a3a3a;
-        display: inline-block;
+        height: 50px;
 
-        & > button {
-            color: white;
-            background-color: #3a3a3a;
-            border: 1px solid rgb(85, 85, 85);
-            height: 50px;
-            width: 50px;
-            font-size: 40px;
-            padding: 0;
+        span {
+            display: block;
+        }
 
-            span {
-                display: block;
+        &:disabled {
+            line {
+                stroke: #777777;
             }
+        }
 
-            &:disabled {
-                line {
-                    stroke: #777777;
-                }
-            }
-
-            &:hover:enabled {
-                background-color: lighten(#3a3a3a, 15);
-            }
+        &:hover:enabled {
+            background-color: lighten(#3a3a3a, 15);
         }
     }
 
-    .title-bar-button:nth-child(2) {
+    button:nth-child(2) {
         margin-top: -5px;
     }
+}
+
+svg {
+    display: flex;
 }
 
 svg#close > line {
@@ -84,6 +83,22 @@ svg#maximize > line {
 svg#minimize > line {
     stroke-width: 4px;
     stroke: white;
+}
+
+svg#pinned {
+    transform: scale(0.096);
+    z-index: 100;
+    position: relative;
+
+    left: -226px;
+    top: -226px;
+
+    line,
+    polygon {
+        stroke-width: 16px;
+        stroke: white;
+        fill: white;
+    }
 }
 
 #main-container {

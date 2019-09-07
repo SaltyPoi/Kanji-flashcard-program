@@ -40,4 +40,4 @@ const mapDispatchToProps = (dispatch) => ({
     displayNextCard: () => dispatch(nextCard())
 });
 
-export default connect(null, mapDispatchToProps)(MeaningInput);
+export default connect<null, DispatchProps>(null, mapDispatchToProps)(MeaningInput);

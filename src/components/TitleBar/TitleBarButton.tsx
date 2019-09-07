@@ -8,10 +8,8 @@ interface Props {
 
 export const TitleBarButton: React.FC<Props> = ({ children, onClickFunction, disabled }) => {
     return (
-        <div className="title-bar-button">
-            <button onClick={onClickFunction} disabled={disabled}>
-                {children}
-            </button>
-        </div>
+        <button onClick={onClickFunction} disabled={disabled}>
+            {children}
+        </button>
     );
 };

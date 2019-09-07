@@ -5,12 +5,13 @@ import { getDeck } from '../../store/actions/deckActions';
 import { rootReducerState } from '../../store/rootReducer';
 import { clipboard } from 'electron';
 
-interface DispatchProps {
-    getDeck: (loadLastDeck?: boolean) => void;
-}
 interface StateProps {
     buttonsEnabled: boolean;
     currentKanji: string;
+}
+
+interface DispatchProps {
+    getDeck: (loadLastDeck?: boolean) => void;
 }
 
 interface Props extends DispatchProps, StateProps {}
@@ -37,6 +38,6 @@ const mapStateToProps = (state: rootReducerState) => ({
     currentKanji: state.deck.currentCard!.kanji
 });
 
-export default connect(mapStateToProps, { getDeck })(ButtonContainer);
+export default connect<StateProps, DispatchProps>(mapStateToProps, { getDeck })(ButtonContainer);
 
 const writeToClipboard = (kanji: string) => clipboard.writeText(kanji);

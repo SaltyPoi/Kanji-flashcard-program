@@ -27,4 +27,4 @@ export const App: React.FC<Props> = ({ getDeck }) => {
     );
 };
 
-export default connect(null, { getDeck })(App);
+export default connect<null, DispatchProps>(null, { getDeck })(App);
