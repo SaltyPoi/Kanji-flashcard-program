@@ -1,4 +1,4 @@
-# Kanji-flastcard-program (WIP)
+# Kanji-flashcard-program (WIP)
 
 A simple flashcard program for learning kanji
 
