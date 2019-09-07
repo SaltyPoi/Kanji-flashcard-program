@@ -8,7 +8,6 @@ import { clipboard } from 'electron';
 interface DispatchProps {
     getDeck: (loadLastDeck?: boolean) => void;
 }
-
 interface StateProps {
     buttonsEnabled: boolean;
     currentKanji: string;

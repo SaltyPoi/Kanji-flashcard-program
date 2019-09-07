@@ -43,7 +43,7 @@ const createMainWindow = (): void => {
     });
 };
 
-app.on('ready', async () => {
+app.on('ready', () => {
     createMainWindow();
     saveDefaultDecks();
     settingsHelper.loadSettings();

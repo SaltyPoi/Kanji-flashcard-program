@@ -5,7 +5,7 @@ import { cardType, deckType } from '../../typings/common';
 export interface deckReducerState {
     deck: deckType | null;
     shuffledDeck: deckType | null;
-    currentCard: cardType | null;
+    currentCard: Partial<cardType> | null;
     currentCardIndex: number;
     numberOfCards: number;
 }
@@ -13,7 +13,9 @@ export interface deckReducerState {
 const initalState: deckReducerState = {
     deck: null,
     shuffledDeck: null,
-    currentCard: null,
+    currentCard: {
+        kanji: ''
+    },
     currentCardIndex: 0,
     numberOfCards: 0
 };
