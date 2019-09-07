@@ -1,9 +1,11 @@
 export interface uiReducerState {
     buttonsEnabled: boolean;
+    windowPinned: boolean;
 }
 
 const initalState: uiReducerState = {
-    buttonsEnabled: true
+    buttonsEnabled: true,
+    windowPinned: false
 };
 
 export const uiReducer = (
@@ -15,6 +17,9 @@ export const uiReducer = (
             return { ...state, buttonsEnabled: false };
         case 'ENABLE_BUTTONS':
             return { ...state, buttonsEnabled: true };
+        case 'TOGGLE_WINDOW_PIN':
+            return { ...state, windowPinned: !state.windowPinned };
+
         default:
             return state;
     }

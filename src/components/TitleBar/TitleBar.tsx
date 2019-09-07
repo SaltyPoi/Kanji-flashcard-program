@@ -5,18 +5,35 @@ import {
     messageToggleAlwaysOnTop,
     messageWindowClose,
     messageWindowMaximize,
-    messageWindowMinimize,
+    messageWindowMinimize
 } from '../../ipc/ipcRenderer/ipcRendererMessages';
 import { Icons } from '../Common/Icons/TItleBarIcons';
 import { TitleBarButton } from './TitleBarButton';
+import { connect } from 'react-redux';
+import { rootReducerState } from '../../store/rootReducer';
+import { toggleWindowPin } from '../../store/actions/uiActions';
 
-export const TitleBar: React.FC = () => {
+interface StateProps {
+    windowPinned: boolean;
+}
+
+interface DispatchProps {
+    toggleWindowPin: () => void;
+}
+
+interface Props extends StateProps, DispatchProps {}
+
+export const TitleBar: React.FC<Props> = ({ windowPinned, toggleWindowPin }) => {
     return (
         <div className="title-bar">
             <div className="title-bar-title">Flashcard</div>
             <div className="title-bar-button-container">
-                <TitleBarButton onClickFunction={() => sendMessage(messageToggleAlwaysOnTop())}>
-                    {Icons.IconPinned}
+                <TitleBarButton
+                    onClickFunction={() => {
+                        toggleWindowPin();
+                        sendMessage(messageToggleAlwaysOnTop());
+                    }}>
+                    {windowPinned ? Icons.IconPinned : Icons.IconUnpinned}
                 </TitleBarButton>
                 <TitleBarButton onClickFunction={() => sendMessage(messageWindowMinimize())}>
                     {Icons.IconMinimize}
@@ -34,4 +51,12 @@ export const TitleBar: React.FC = () => {
     );
 };
 
-// ☖_☐✖
+const mapStateToProps = (state: rootReducerState) => ({
+    windowPinned: state.ui.windowPinned
+});
+
+const mapDisptachToProps = (dispatch) => ({
+    toggleWindowPin: () => dispatch(toggleWindowPin)
+});
+
+export default connect<StateProps, DispatchProps>(mapStateToProps, mapDisptachToProps)(TitleBar);

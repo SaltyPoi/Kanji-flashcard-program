@@ -5,7 +5,7 @@ import { connect } from 'react-redux';
 
 import ButtonContainer from './components/Common/ButtonContainer';
 import FlashCardsContainer from './components/FlashCard/FlashCardContainer';
-import { TitleBar } from './components/TitleBar/TitleBar';
+import TitleBar from './components/TitleBar/TitleBar';
 import { getDeck } from './store/actions/deckActions';
 
 interface DispatchProps {
