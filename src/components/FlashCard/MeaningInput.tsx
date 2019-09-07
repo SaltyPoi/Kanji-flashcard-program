@@ -14,12 +14,12 @@ interface Props extends DispatchProps {
 export const MeaningInput: React.FC<Props> = ({ meanings, displayNextCard }) => {
     const [ inputValue, setInputValue ] = React.useState('');
     const onChange = (e) => {
-        if (meanings.includes(e.target.value.toLowerCase().trim())) {
+        if (meanings.includes(e.target.value.toLowerCase())) {
             setInputValue('');
             displayNextCard();
         }
         else {
-            setInputValue(e.target.value.trim());
+            setInputValue(e.target.value);
         }
     };
 
