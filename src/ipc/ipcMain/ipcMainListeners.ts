@@ -15,7 +15,7 @@ const listenerWindowClose = (): ipcMainListenerType => ({
     channel: 'windowClose',
     listener: () => {
         const window: Electron.BrowserWindow | null = BrowserWindow.getFocusedWindow();
-        if (window) window.close();
+        window!.close();
     }
 });
 
@@ -23,7 +23,7 @@ const listenerwindowMinimize = (): ipcMainListenerType => ({
     channel: 'windowMinimize',
     listener: () => {
         const window: Electron.BrowserWindow | null = BrowserWindow.getFocusedWindow();
-        if (window) window.minimize();
+        window!.minimize();
     }
 });
 
@@ -31,24 +31,22 @@ const listenerwindowMaximize = (): ipcMainListenerType => ({
     channel: 'windowMaximize',
     listener: () => {
         const window: Electron.BrowserWindow | null = BrowserWindow.getFocusedWindow();
-        if (window) {
-            if (window.isMaximized()) {
-                window.unmaximize();
-            }
-            else {
-                window.maximize();
-            }
+        if (window!.isMaximized()) {
+            window!.unmaximize();
+        }
+        else {
+            window!.maximize();
         }
     }
 });
 
 const listenerToggleAlwaysOnTop = (): ipcMainListenerType => ({
     channel: 'windowToggleAlwaysOnTop',
-    listener: () => {
+    listener: (event: IpcMainEvent) => {
         const window: Electron.BrowserWindow | null = BrowserWindow.getFocusedWindow();
-        if (window) {
-            window.setAlwaysOnTop(!window.isAlwaysOnTop());
-        }
+        window!.setAlwaysOnTop(!window!.isAlwaysOnTop());
+        console.log('asdjoiawjdoiwajd');
+        event.reply('windowToggleAlwaysOnTop', window!.isAlwaysOnTop());
     }
 });
 

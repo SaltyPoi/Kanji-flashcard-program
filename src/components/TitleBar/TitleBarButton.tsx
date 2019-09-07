@@ -1,7 +1,6 @@
 import * as React from 'react';
 
 interface Props {
-    text?: string;
     onClickFunction: () => void;
     disabled?: boolean;
 }
