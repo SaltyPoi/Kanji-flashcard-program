@@ -40,13 +40,16 @@ const listenerwindowMaximize = (): ipcMainListenerType => ({
     }
 });
 
-const listenerToggleAlwaysOnTop = (): ipcMainListenerType => ({
+const listenerToggleAlwaysOnTop = (settingsHelper: SettingsHelper): ipcMainListenerType => ({
     channel: 'windowToggleAlwaysOnTop',
     listener: (event: IpcMainEvent) => {
         const window: Electron.BrowserWindow | null = BrowserWindow.getFocusedWindow();
-        window!.setAlwaysOnTop(!window!.isAlwaysOnTop());
-        console.log('asdjoiawjdoiwajd');
-        event.reply('windowToggleAlwaysOnTop', window!.isAlwaysOnTop());
+        if (window) {
+            const newWindowState = !window.isAlwaysOnTop();
+            window.setAlwaysOnTop(newWindowState);
+            settingsHelper.setSettings({ isWindowPinned: newWindowState });
+            event.reply('windowToggleAlwaysOnTop', window!.isAlwaysOnTop());
+        }
     }
 });
 
@@ -81,10 +84,18 @@ const listenerLoadDeck = (settingsHelper: SettingsHelper): ipcMainListenerType =
     }
 });
 
+const listenerGetSettings = (settingsHelper: SettingsHelper): ipcMainListenerType => ({
+    channel: 'getSettings',
+    listener: (event) => {
+        event.reply('getSettings', settingsHelper.getSettings());
+    }
+});
+
 export const ipcMainListeners: ipcMainListenerCreator[] = [
     listenerWindowClose,
     listenerwindowMinimize,
     listenerwindowMaximize,
     listenerLoadDeck,
-    listenerToggleAlwaysOnTop
+    listenerToggleAlwaysOnTop,
+    listenerGetSettings
 ];

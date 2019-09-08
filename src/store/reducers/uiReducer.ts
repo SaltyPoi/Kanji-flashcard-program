@@ -17,11 +17,8 @@ export const uiReducer = (
             return { ...state, buttonsEnabled: false };
         case 'ENABLE_BUTTONS':
             return { ...state, buttonsEnabled: true };
-        case 'TOGGLE_WINDOW_PIN':
-            return { ...state, windowPinned: !state.windowPinned };
         case 'SET_WINDOW_PIN':
             return { ...state, windowPinned: payload.windowPinned };
-
         default:
             return state;
     }

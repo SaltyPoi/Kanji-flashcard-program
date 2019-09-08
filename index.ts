@@ -6,6 +6,7 @@ import { saveDefaultDecks } from './src/helpers/deckHelper/deckHelper';
 import { loadExtensions } from './src/helpers/loadExtensions';
 import { settingsHelper } from './src/helpers/settingsHelper/settingsHelper';
 import { applyListeners } from './src/ipc/ipcMain/ipcMain';
+import { applySettings } from './src/helpers/settingsHelper/applySettings';
 
 let mainWindow: BrowserWindow | null;
 
@@ -48,4 +49,5 @@ app.on('ready', () => {
     saveDefaultDecks();
     settingsHelper.loadSettings();
     applyListeners(settingsHelper);
+    applySettings(settingsHelper.getSettings());
 });

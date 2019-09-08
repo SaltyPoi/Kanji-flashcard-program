@@ -25,3 +25,7 @@ export const messageLoadDeck = (loadLastDeck = true): ipcRendererMessageType => 
         loadLastDeck
     }
 });
+
+export const messageGetSettings = (): ipcRendererMessageType => ({
+    channel: 'getSettings'
+});
