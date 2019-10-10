@@ -1,0 +1,5730 @@
+{
+  "一": {
+    "kanji": "一",
+    "meanings": [
+      "one"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ichi"
+      ],
+      "hiragana": [
+        "いち"
+      ],
+      "katakana": []
+    }
+  },
+  "九": {
+    "kanji": "九",
+    "meanings": [
+      "nine",
+      "9"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "七": {
+    "kanji": "七",
+    "meanings": [
+      "seven",
+      "7"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "二": {
+    "kanji": "二",
+    "meanings": [
+      "two"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ni"
+      ],
+      "hiragana": [
+        "に"
+      ],
+      "katakana": []
+    }
+  },
+  "人": {
+    "kanji": "人",
+    "meanings": [
+      "person"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "入": {
+    "kanji": "入",
+    "meanings": [
+      "insert",
+      "enter"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "八": {
+    "kanji": "八",
+    "meanings": [
+      "eight",
+      "8"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "力": {
+    "kanji": "力",
+    "meanings": [
+      "power",
+      "force"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "chikara"
+      ],
+      "hiragana": [
+        "ちから"
+      ],
+      "katakana": []
+    }
+  },
+  "十": {
+    "kanji": "十",
+    "meanings": [
+      "ten",
+      "complete"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "jū"
+      ],
+      "hiragana": [
+        "じゅう"
+      ],
+      "katakana": []
+    }
+  },
+  "下": {
+    "kanji": "下",
+    "meanings": [
+      "down",
+      "below",
+      "decend",
+      "give"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "三": {
+    "kanji": "三",
+    "meanings": [
+      "three",
+      "3"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "千": {
+    "kanji": "千",
+    "meanings": [
+      "thousand",
+      "one thousand",
+      "1000"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "上": {
+    "kanji": "上",
+    "meanings": [
+      "above",
+      "up"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "口": {
+    "kanji": "口",
+    "meanings": [
+      "mouth",
+      "opening"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kuchi"
+      ],
+      "hiragana": [
+        "くち"
+      ],
+      "katakana": []
+    }
+  },
+  "土": {
+    "kanji": "土",
+    "meanings": [
+      "earth"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tsuchi"
+      ],
+      "hiragana": [
+        "つち"
+      ],
+      "katakana": []
+    }
+  },
+  "夕": {
+    "kanji": "夕",
+    "meanings": [
+      "evening",
+      "sunset"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "yūbe"
+      ],
+      "hiragana": [
+        "ゆうべ"
+      ],
+      "katakana": []
+    }
+  },
+  "大": {
+    "kanji": "大",
+    "meanings": [
+      "big",
+      "very"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "dai"
+      ],
+      "hiragana": [
+        "だい"
+      ],
+      "katakana": []
+    }
+  },
+  "女": {
+    "kanji": "女",
+    "meanings": [
+      "woman",
+      "female"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "onna"
+      ],
+      "hiragana": [
+        "おんな"
+      ],
+      "katakana": []
+    }
+  },
+  "子": {
+    "kanji": "子",
+    "meanings": [
+      "child",
+      "seed"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ko"
+      ],
+      "hiragana": [
+        "こ"
+      ],
+      "katakana": []
+    }
+  },
+  "小": {
+    "kanji": "小",
+    "meanings": [
+      "small",
+      "little"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "山": {
+    "kanji": "山",
+    "meanings": [
+      "mountain"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "yama"
+      ],
+      "hiragana": [
+        "やま"
+      ],
+      "katakana": []
+    }
+  },
+  "川": {
+    "kanji": "川",
+    "meanings": [
+      "river"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "五": {
+    "kanji": "五",
+    "meanings": [
+      "five",
+      "5"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "天": {
+    "kanji": "天",
+    "meanings": [
+      "heaven",
+      "heavens",
+      "sky",
+      "imperial"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "中": {
+    "kanji": "中",
+    "meanings": [
+      "middle",
+      "in",
+      "inside",
+      "mean",
+      "center"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "六": {
+    "kanji": "六",
+    "meanings": [
+      "six",
+      "6"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "円": {
+    "kanji": "円",
+    "meanings": [
+      "yen",
+      "circle",
+      "round"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "手": {
+    "kanji": "手",
+    "meanings": [
+      "hand",
+      "arm"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "文": {
+    "kanji": "文",
+    "meanings": [
+      "script",
+      "literature"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "bun"
+      ],
+      "hiragana": [
+        "ぶん"
+      ],
+      "katakana": []
+    }
+  },
+  "日": {
+    "kanji": "日",
+    "meanings": [
+      "sun",
+      "day"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nichi"
+      ],
+      "hiragana": [
+        "にち"
+      ],
+      "katakana": []
+    }
+  },
+  "月": {
+    "kanji": "月",
+    "meanings": [
+      "moon",
+      "month"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "木": {
+    "kanji": "木",
+    "meanings": [
+      "tree"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ki"
+      ],
+      "hiragana": [
+        "き"
+      ],
+      "katakana": []
+    }
+  },
+  "水": {
+    "kanji": "水",
+    "meanings": [
+      "water"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "火": {
+    "kanji": "火",
+    "meanings": [
+      "fire"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "犬": {
+    "kanji": "犬",
+    "meanings": [
+      "dog"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "王": {
+    "kanji": "王",
+    "meanings": [
+      "king",
+      "rule",
+      "magnate"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "正": {
+    "kanji": "正",
+    "meanings": [
+      "regular",
+      "positive"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "出": {
+    "kanji": "出",
+    "meanings": [
+      "exit",
+      "leave",
+      "go out",
+      "come out",
+      "put"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "本": {
+    "kanji": "本",
+    "meanings": [
+      "book",
+      "root",
+      "present",
+      "main",
+      "origin",
+      "true",
+      "real"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "右": {
+    "kanji": "右",
+    "meanings": [
+      "right"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "四": {
+    "kanji": "四",
+    "meanings": [
+      "four",
+      "4"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "左": {
+    "kanji": "左",
+    "meanings": [
+      "left"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "玉": {
+    "kanji": "玉",
+    "meanings": [
+      "jewel",
+      "gem",
+      "beauty",
+      "elegance",
+      "geisha"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "生": {
+    "kanji": "生",
+    "meanings": [
+      "life"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "umareru"
+      ],
+      "hiragana": [
+        "うまれる"
+      ],
+      "katakana": []
+    }
+  },
+  "田": {
+    "kanji": "田",
+    "meanings": [
+      "field"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ta"
+      ],
+      "hiragana": [
+        "た"
+      ],
+      "katakana": []
+    }
+  },
+  "白": {
+    "kanji": "白",
+    "meanings": [
+      "white"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shiro"
+      ],
+      "hiragana": [
+        "しろ"
+      ],
+      "katakana": []
+    }
+  },
+  "目": {
+    "kanji": "目",
+    "meanings": [
+      "eye"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "me"
+      ],
+      "hiragana": [
+        "め"
+      ],
+      "katakana": []
+    }
+  },
+  "石": {
+    "kanji": "石",
+    "meanings": [
+      "stone"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ishi"
+      ],
+      "hiragana": [
+        "いし"
+      ],
+      "katakana": []
+    }
+  },
+  "立": {
+    "kanji": "立",
+    "meanings": [
+      "stand",
+      "erect"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tatsu"
+      ],
+      "hiragana": [
+        "たつ"
+      ],
+      "katakana": []
+    }
+  },
+  "百": {
+    "kanji": "百",
+    "meanings": [
+      "one hundred",
+      "hundred",
+      "100"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "年": {
+    "kanji": "年",
+    "meanings": [
+      "year"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "休": {
+    "kanji": "休",
+    "meanings": [
+      "rest",
+      "day off",
+      "retire",
+      "sleep",
+      "vacation"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "先": {
+    "kanji": "先",
+    "meanings": [
+      "ahead",
+      "before",
+      "previous",
+      "future",
+      "procedence",
+      "end",
+      "tip"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "名": {
+    "kanji": "名",
+    "meanings": [
+      "name",
+      "noted",
+      "distinguished",
+      "reputation"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "字": {
+    "kanji": "字",
+    "meanings": [
+      "letter",
+      "character",
+      "handwritting"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "早": {
+    "kanji": "早",
+    "meanings": [
+      "early",
+      "fast"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "気": {
+    "kanji": "気",
+    "meanings": [
+      "spirit",
+      "mind",
+      "air",
+      "atmosphere"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "竹": {
+    "kanji": "竹",
+    "meanings": [
+      "bamboo"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "糸": {
+    "kanji": "糸",
+    "meanings": [
+      "yarn",
+      "thread"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "耳": {
+    "kanji": "耳",
+    "meanings": [
+      "ear"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mimi"
+      ],
+      "hiragana": [
+        "みみ"
+      ],
+      "katakana": []
+    }
+  },
+  "虫": {
+    "kanji": "虫",
+    "meanings": [
+      "insect"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mushi"
+      ],
+      "hiragana": [
+        "むし"
+      ],
+      "katakana": []
+    }
+  },
+  "村": {
+    "kanji": "村",
+    "meanings": [
+      "village"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "男": {
+    "kanji": "男",
+    "meanings": [
+      "man",
+      "male"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "町": {
+    "kanji": "町",
+    "meanings": [
+      "town"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "花": {
+    "kanji": "花",
+    "meanings": [
+      "flower"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "見": {
+    "kanji": "見",
+    "meanings": [
+      "see"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "miru"
+      ],
+      "hiragana": [
+        "みる"
+      ],
+      "katakana": []
+    }
+  },
+  "貝": {
+    "kanji": "貝",
+    "meanings": [
+      "shell"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kai"
+      ],
+      "hiragana": [
+        "かい"
+      ],
+      "katakana": []
+    }
+  },
+  "赤": {
+    "kanji": "赤",
+    "meanings": [
+      "red",
+      "bare"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "aka"
+      ],
+      "hiragana": [
+        "あか"
+      ],
+      "katakana": []
+    }
+  },
+  "足": {
+    "kanji": "足",
+    "meanings": [
+      "leg",
+      "foot"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "車": {
+    "kanji": "車",
+    "meanings": [
+      "cart",
+      "car"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kuruma"
+      ],
+      "hiragana": [
+        "くるま"
+      ],
+      "katakana": []
+    }
+  },
+  "学": {
+    "kanji": "学",
+    "meanings": [
+      "study",
+      "learn",
+      "education",
+      "school",
+      "science"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "林": {
+    "kanji": "林",
+    "meanings": [
+      "woods",
+      "grove",
+      "forest",
+      "copse"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "空": {
+    "kanji": "空",
+    "meanings": [
+      "sky",
+      "empty",
+      "hollow",
+      "bare",
+      "void",
+      "deserted"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "金": {
+    "kanji": "金",
+    "meanings": [
+      "gold",
+      "metal"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "雨": {
+    "kanji": "雨",
+    "meanings": [
+      "rain"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "青": {
+    "kanji": "青",
+    "meanings": [
+      "blue",
+      "east",
+      "immature",
+      "unripe",
+      "young",
+      "publication",
+      "record"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "草": {
+    "kanji": "草",
+    "meanings": [
+      "grass",
+      "weed",
+      "herb"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "音": {
+    "kanji": "音",
+    "meanings": [
+      "sound"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "oto"
+      ],
+      "hiragana": [
+        "おと"
+      ],
+      "katakana": []
+    }
+  },
+  "校": {
+    "kanji": "校",
+    "meanings": [
+      "school"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "森": {
+    "kanji": "森",
+    "meanings": [
+      "forest",
+      "woods",
+      "silent"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "刀": {
+    "kanji": "刀",
+    "meanings": [
+      "blade",
+      "katana",
+      "knife"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "万": {
+    "kanji": "万",
+    "meanings": [
+      "ten thousand",
+      "10000",
+      "10 000",
+      "10.000"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "丸": {
+    "kanji": "丸",
+    "meanings": [
+      "circle",
+      "round",
+      "whole",
+      "pill"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "才": {
+    "kanji": "才",
+    "meanings": [
+      "age"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "工": {
+    "kanji": "工",
+    "meanings": [
+      "work"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "takumi"
+      ],
+      "hiragana": [
+        "たくみ"
+      ],
+      "katakana": []
+    }
+  },
+  "弓": {
+    "kanji": "弓",
+    "meanings": [
+      "bow"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "yumi"
+      ],
+      "hiragana": [
+        "ゆみ"
+      ],
+      "katakana": []
+    }
+  },
+  "内": {
+    "kanji": "内",
+    "meanings": [
+      "inside",
+      "within",
+      "between",
+      "among",
+      "while",
+      "during"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "午": {
+    "kanji": "午",
+    "meanings": [
+      "noon",
+      "horse"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "少": {
+    "kanji": "少",
+    "meanings": [
+      "little"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "元": {
+    "kanji": "元",
+    "meanings": [
+      "cause",
+      "origin",
+      "basis",
+      "foundation",
+      "cost"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "今": {
+    "kanji": "今",
+    "meanings": [
+      "now"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "公": {
+    "kanji": "公",
+    "meanings": [
+      "public",
+      "official",
+      "governmantal"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "分": {
+    "kanji": "分",
+    "meanings": [
+      "minutes"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "切": {
+    "kanji": "切",
+    "meanings": [
+      "cut"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "友": {
+    "kanji": "友",
+    "meanings": [
+      "firend"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "太": {
+    "kanji": "太",
+    "meanings": [
+      "fat",
+      "thick"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "引": {
+    "kanji": "引",
+    "meanings": [
+      "pull",
+      "tug",
+      "admit"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "心": {
+    "kanji": "心",
+    "meanings": [
+      "mind",
+      "heart",
+      "spirit",
+      "soul",
+      "thoughts",
+      "ideas"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "戸": {
+    "kanji": "戸",
+    "meanings": [
+      "door"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "方": {
+    "kanji": "方",
+    "meanings": [
+      "way",
+      "square",
+      "raft"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hō"
+      ],
+      "hiragana": [
+        "ほう"
+      ],
+      "katakana": []
+    }
+  },
+  "止": {
+    "kanji": "止",
+    "meanings": [
+      "stop"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tomeru"
+      ],
+      "hiragana": [
+        "とめる"
+      ],
+      "katakana": []
+    }
+  },
+  "毛": {
+    "kanji": "毛",
+    "meanings": [
+      "fur",
+      "hair"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ke"
+      ],
+      "hiragana": [
+        "け"
+      ],
+      "katakana": []
+    }
+  },
+  "父": {
+    "kanji": "父",
+    "meanings": [
+      "father"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "chichi"
+      ],
+      "hiragana": [
+        "ちち"
+      ],
+      "katakana": []
+    }
+  },
+  "牛": {
+    "kanji": "牛",
+    "meanings": [
+      "cow"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "半": {
+    "kanji": "半",
+    "meanings": [
+      "half"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "市": {
+    "kanji": "市",
+    "meanings": [
+      "city",
+      "market"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "北": {
+    "kanji": "北",
+    "meanings": [
+      "north",
+      "escape"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "古": {
+    "kanji": "古",
+    "meanings": [
+      "old",
+      "past",
+      "ancient"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "台": {
+    "kanji": "台",
+    "meanings": [
+      "pedestal",
+      "stand",
+      "Taiwan"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "兄": {
+    "kanji": "兄",
+    "meanings": [
+      "brother",
+      "older brother"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "冬": {
+    "kanji": "冬",
+    "meanings": [
+      "winter"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "外": {
+    "kanji": "外",
+    "meanings": [
+      "outside",
+      "foreign",
+      "other",
+      "except"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "広": {
+    "kanji": "広",
+    "meanings": [
+      "vast",
+      "wide"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "母": {
+    "kanji": "母",
+    "meanings": [
+      "mother"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "用": {
+    "kanji": "用",
+    "meanings": [
+      "use",
+      "task",
+      "errand",
+      "business"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "矢": {
+    "kanji": "矢",
+    "meanings": [
+      "arrow"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ya"
+      ],
+      "hiragana": [
+        "や"
+      ],
+      "katakana": []
+    }
+  },
+  "交": {
+    "kanji": "交",
+    "meanings": [
+      "intersect",
+      "to intersect",
+      "to cross",
+      "exchange"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "会": {
+    "kanji": "会",
+    "meanings": [
+      "meeting",
+      "gathering",
+      "society",
+      "association",
+      "club",
+      "party"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "合": {
+    "kanji": "合",
+    "meanings": [
+      "fit",
+      "suit",
+      "join",
+      "together",
+      "one tenth"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "同": {
+    "kanji": "同",
+    "meanings": [
+      "same"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "回": {
+    "kanji": "回",
+    "meanings": [
+      "turn",
+      "times",
+      "time",
+      "round",
+      "occasion"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "寺": {
+    "kanji": "寺",
+    "meanings": [
+      "temple"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "地": {
+    "kanji": "地",
+    "meanings": [
+      "earth",
+      "ground"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "多": {
+    "kanji": "多",
+    "meanings": [
+      "many",
+      "much"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "光": {
+    "kanji": "光",
+    "meanings": [
+      "light",
+      "glittering",
+      "shine",
+      "shining",
+      "optics"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "当": {
+    "kanji": "当",
+    "meanings": [
+      "hit",
+      "right",
+      "appropriate"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "毎": {
+    "kanji": "毎",
+    "meanings": [
+      "every"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "池": {
+    "kanji": "池",
+    "meanings": [
+      "lake",
+      "moat",
+      "pond"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "米": {
+    "kanji": "米",
+    "meanings": [
+      "rice"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kome"
+      ],
+      "hiragana": [
+        "こめ"
+      ],
+      "katakana": []
+    }
+  },
+  "羽": {
+    "kanji": "羽",
+    "meanings": [
+      "feather",
+      "wing"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hane"
+      ],
+      "hiragana": [
+        "はね"
+      ],
+      "katakana": []
+    }
+  },
+  "考": {
+    "kanji": "考",
+    "meanings": [
+      "thought",
+      "consideration"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "肉": {
+    "kanji": "肉",
+    "meanings": [
+      "meat",
+      "flesh"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "自": {
+    "kanji": "自",
+    "meanings": [
+      "oneself"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mizukara"
+      ],
+      "hiragana": [
+        "みずから"
+      ],
+      "katakana": []
+    }
+  },
+  "色": {
+    "kanji": "色",
+    "meanings": [
+      "colour",
+      "prettiness"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "iro"
+      ],
+      "hiragana": [
+        "いろ"
+      ],
+      "katakana": []
+    }
+  },
+  "行": {
+    "kanji": "行",
+    "meanings": [
+      "go",
+      "do"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "gyō"
+      ],
+      "hiragana": [
+        "ぎょう"
+      ],
+      "katakana": []
+    }
+  },
+  "西": {
+    "kanji": "西",
+    "meanings": [
+      "west"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "来": {
+    "kanji": "来",
+    "meanings": [
+      "come",
+      "to come"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "何": {
+    "kanji": "何",
+    "meanings": [
+      "what"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "作": {
+    "kanji": "作",
+    "meanings": [
+      "work",
+      "production",
+      "product"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "体": {
+    "kanji": "体",
+    "meanings": [
+      "body"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "弟": {
+    "kanji": "弟",
+    "meanings": [
+      "younger sibling"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "図": {
+    "kanji": "図",
+    "meanings": [
+      "diagram",
+      "figure",
+      "illustration"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "声": {
+    "kanji": "声",
+    "meanings": [
+      "voice"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "売": {
+    "kanji": "売",
+    "meanings": [
+      "sell",
+      "to sell"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "形": {
+    "kanji": "形",
+    "meanings": [
+      "shape",
+      "form",
+      "style"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "汽": {
+    "kanji": "汽",
+    "meanings": [
+      "steam",
+      "vapor",
+      "nearly"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "社": {
+    "kanji": "社",
+    "meanings": [
+      "shrine"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "角": {
+    "kanji": "角",
+    "meanings": [
+      "horn"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tsuno"
+      ],
+      "hiragana": [
+        "つの"
+      ],
+      "katakana": []
+    }
+  },
+  "言": {
+    "kanji": "言",
+    "meanings": [
+      "word",
+      "to say",
+      "speech",
+      "say"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "谷": {
+    "kanji": "谷",
+    "meanings": [
+      "valley"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tani"
+      ],
+      "hiragana": [
+        "たに"
+      ],
+      "katakana": []
+    }
+  },
+  "走": {
+    "kanji": "走",
+    "meanings": [
+      "run"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "近": {
+    "kanji": "近",
+    "meanings": [
+      "near",
+      "close"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "里": {
+    "kanji": "里",
+    "meanings": [
+      "village",
+      "mile"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "sato"
+      ],
+      "hiragana": [
+        "さと"
+      ],
+      "katakana": []
+    }
+  },
+  "麦": {
+    "kanji": "麦",
+    "meanings": [
+      "wheat",
+      "barley"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "画": {
+    "kanji": "画",
+    "meanings": [
+      "picture",
+      "drawing",
+      "painting"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "東": {
+    "kanji": "東",
+    "meanings": [
+      "east"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "京": {
+    "kanji": "京",
+    "meanings": [
+      "capital city",
+      "Tokyo",
+      "Kyoto"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "夜": {
+    "kanji": "夜",
+    "meanings": [
+      "night"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "直": {
+    "kanji": "直",
+    "meanings": [
+      "directly",
+      "straight"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "国": {
+    "kanji": "国",
+    "meanings": [
+      "country",
+      "land",
+      "large place",
+      "nation",
+      "domain",
+      "state"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "姉": {
+    "kanji": "姉",
+    "meanings": [
+      "older sister",
+      "sister"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "妹": {
+    "kanji": "妹",
+    "meanings": [
+      "younger sister",
+      "sister"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "岩": {
+    "kanji": "岩",
+    "meanings": [
+      "rock"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "店": {
+    "kanji": "店",
+    "meanings": [
+      "store",
+      "shop"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "明": {
+    "kanji": "明",
+    "meanings": [
+      "clear",
+      "tomorrow",
+      "bright"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "歩": {
+    "kanji": "歩",
+    "meanings": [
+      "walk",
+      "step",
+      "a step",
+      "pawn"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "知": {
+    "kanji": "知",
+    "meanings": [
+      "knowledge",
+      "wisdom"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "長": {
+    "kanji": "長",
+    "meanings": [
+      "long",
+      "lenghty",
+      "growing",
+      "increasing",
+      "excellent",
+      "great",
+      "elder"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "門": {
+    "kanji": "門",
+    "meanings": [
+      "gate"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mon"
+      ],
+      "hiragana": [
+        "もん"
+      ],
+      "katakana": []
+    }
+  },
+  "昼": {
+    "kanji": "昼",
+    "meanings": [
+      "noon",
+      "daytime"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "前": {
+    "kanji": "前",
+    "meanings": [
+      "in front",
+      "before",
+      "previous"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "南": {
+    "kanji": "南",
+    "meanings": [
+      "south"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "点": {
+    "kanji": "点",
+    "meanings": [
+      "spot",
+      "dot",
+      "score",
+      "grade",
+      "mark",
+      "point"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "室": {
+    "kanji": "室",
+    "meanings": [
+      "room"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "後": {
+    "kanji": "後",
+    "meanings": [
+      "behind",
+      "after",
+      "rear"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "春": {
+    "kanji": "春",
+    "meanings": [
+      "spring"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "星": {
+    "kanji": "星",
+    "meanings": [
+      "star"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "海": {
+    "kanji": "海",
+    "meanings": [
+      "sea",
+      "ocean",
+      "large",
+      "wide"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "活": {
+    "kanji": "活",
+    "meanings": [
+      "life",
+      "active"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "思": {
+    "kanji": "思",
+    "meanings": [
+      "think",
+      "thought"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "科": {
+    "kanji": "科",
+    "meanings": [
+      "family",
+      "grade",
+      "department",
+      "section"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "秋": {
+    "kanji": "秋",
+    "meanings": [
+      "autumn",
+      "fall"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "茶": {
+    "kanji": "茶",
+    "meanings": [
+      "tea",
+      "brown"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "計": {
+    "kanji": "計",
+    "meanings": [
+      "plan",
+      "total"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "風": {
+    "kanji": "風",
+    "meanings": [
+      "wind"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "食": {
+    "kanji": "食",
+    "meanings": [
+      "eat",
+      "to eat",
+      "meal"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "首": {
+    "kanji": "首",
+    "meanings": [
+      "neck",
+      "head"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kubi"
+      ],
+      "hiragana": [
+        "くび"
+      ],
+      "katakana": []
+    }
+  },
+  "夏": {
+    "kanji": "夏",
+    "meanings": [
+      "summer",
+      "China"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "弱": {
+    "kanji": "弱",
+    "meanings": [
+      "weak",
+      "weakness"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "原": {
+    "kanji": "原",
+    "meanings": [
+      "plain",
+      "field",
+      "original"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "家": {
+    "kanji": "家",
+    "meanings": [
+      "house",
+      "home"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "帰": {
+    "kanji": "帰",
+    "meanings": [
+      "return",
+      "to return",
+      "come back"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "時": {
+    "kanji": "時",
+    "meanings": [
+      "time"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "紙": {
+    "kanji": "紙",
+    "meanings": [
+      "paper"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "書": {
+    "kanji": "書",
+    "meanings": [
+      "document",
+      "book",
+      "letter"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "記": {
+    "kanji": "記",
+    "meanings": [
+      "statement",
+      "incription",
+      "mention",
+      "describe"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "通": {
+    "kanji": "通",
+    "meanings": [
+      "through",
+      "pass through"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "馬": {
+    "kanji": "馬",
+    "meanings": [
+      "horse"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "uma"
+      ],
+      "hiragana": [
+        "うま"
+      ],
+      "katakana": []
+    }
+  },
+  "高": {
+    "kanji": "高",
+    "meanings": [
+      "high",
+      "tall",
+      "expensive",
+      "maximum",
+      "limit"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "強": {
+    "kanji": "強",
+    "meanings": [
+      "strong",
+      "powerful",
+      "potent"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "教": {
+    "kanji": "教",
+    "meanings": [
+      "to teach",
+      "teachings"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "理": {
+    "kanji": "理",
+    "meanings": [
+      "reason",
+      "logic"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "細": {
+    "kanji": "細",
+    "meanings": [
+      "thin",
+      "fine",
+      "slender"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "組": {
+    "kanji": "組",
+    "meanings": [
+      "class",
+      "group",
+      "team",
+      "set"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "船": {
+    "kanji": "船",
+    "meanings": [
+      "ship",
+      "vessel",
+      "large ship"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "週": {
+    "kanji": "週",
+    "meanings": [
+      "week"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "野": {
+    "kanji": "野",
+    "meanings": [
+      "field",
+      "plain",
+      "natural",
+      "prestine",
+      "bare",
+      "open"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "雪": {
+    "kanji": "雪",
+    "meanings": [
+      "snow",
+      "white as snow",
+      "cleanse"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "魚": {
+    "kanji": "魚",
+    "meanings": [
+      "fish"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "uo"
+      ],
+      "hiragana": [
+        "うお"
+      ],
+      "katakana": []
+    }
+  },
+  "鳥": {
+    "kanji": "鳥",
+    "meanings": [
+      "bird"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tori"
+      ],
+      "hiragana": [
+        "とり"
+      ],
+      "katakana": []
+    }
+  },
+  "黄": {
+    "kanji": "黄",
+    "meanings": [
+      "yellow"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "黒": {
+    "kanji": "黒",
+    "meanings": [
+      "black"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "場": {
+    "kanji": "場",
+    "meanings": [
+      "place",
+      "a place",
+      "market",
+      "a market"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "晴": {
+    "kanji": "晴",
+    "meanings": [
+      "clear",
+      "to clear up"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "答": {
+    "kanji": "答",
+    "meanings": [
+      "answer",
+      "reply"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "絵": {
+    "kanji": "絵",
+    "meanings": [
+      "picture"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "買": {
+    "kanji": "買",
+    "meanings": [
+      "buy",
+      "to buy"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "朝": {
+    "kanji": "朝",
+    "meanings": [
+      "morning",
+      "dynasty",
+      "regime",
+      "period"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "道": {
+    "kanji": "道",
+    "meanings": [
+      "road",
+      "way"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "番": {
+    "kanji": "番",
+    "meanings": [
+      "number",
+      "turn"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "間": {
+    "kanji": "間",
+    "meanings": [
+      "space",
+      "void",
+      "between",
+      "during"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "雲": {
+    "kanji": "雲",
+    "meanings": [
+      "cloud"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "園": {
+    "kanji": "園",
+    "meanings": [
+      "field",
+      "plantation",
+      "garden",
+      "park"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "数": {
+    "kanji": "数",
+    "meanings": [
+      "number"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "新": {
+    "kanji": "新",
+    "meanings": [
+      "new",
+      "change",
+      "reform"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "楽": {
+    "kanji": "楽",
+    "meanings": [
+      "music",
+      "comfort",
+      "enjoyment",
+      "easy",
+      "simplicity"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "話": {
+    "kanji": "話",
+    "meanings": [
+      "talk"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "遠": {
+    "kanji": "遠",
+    "meanings": [
+      "distant",
+      "far"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "電": {
+    "kanji": "電",
+    "meanings": [
+      "lightning",
+      "electricity"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "鳴": {
+    "kanji": "鳴",
+    "meanings": [
+      "cry",
+      "a cry",
+      "crying"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "歌": {
+    "kanji": "歌",
+    "meanings": [
+      "song",
+      "poetry"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "算": {
+    "kanji": "算",
+    "meanings": [
+      "counting",
+      "calculation"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "語": {
+    "kanji": "語",
+    "meanings": [
+      "word",
+      "term",
+      "speech",
+      "language"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "読": {
+    "kanji": "読",
+    "meanings": [
+      "read",
+      "to read"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "聞": {
+    "kanji": "聞",
+    "meanings": [
+      "hear"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "線": {
+    "kanji": "線",
+    "meanings": [
+      "line",
+      "level",
+      "beam"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "親": {
+    "kanji": "親",
+    "meanings": [
+      "parent",
+      "elder"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "頭": {
+    "kanji": "頭",
+    "meanings": [
+      "head"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "曜": {
+    "kanji": "曜",
+    "meanings": [
+      "shine",
+      "weekday",
+      "day of the week"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "顔": {
+    "kanji": "顔",
+    "meanings": [
+      "face",
+      "expression"
+    ],
+    "pronunciations": {
+      "romaji": [],
+      "hiragana": [],
+      "katakana": []
+    }
+  },
+  "丨": {
+    "kanji": "丨",
+    "meanings": [
+      "line",
+      "stick"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "bō"
+      ],
+      "hiragana": [
+        "ぼう"
+      ],
+      "katakana": []
+    }
+  },
+  "丶": {
+    "kanji": "丶",
+    "meanings": [
+      "dot"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ten"
+      ],
+      "hiragana": [
+        "てん"
+      ],
+      "katakana": []
+    }
+  },
+  "丿": {
+    "kanji": "丿",
+    "meanings": [
+      "bend",
+      "possessive particle "
+    ],
+    "pronunciations": {
+      "romaji": [
+        "no"
+      ],
+      "hiragana": [
+        "の"
+      ],
+      "katakana": []
+    }
+  },
+  "乙 ": {
+    "kanji": "乙 (乚)",
+    "meanings": [
+      "second",
+      "latter"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "otsu"
+      ],
+      "hiragana": [
+        "おつ"
+      ],
+      "katakana": []
+    }
+  },
+  "亅": {
+    "kanji": "亅",
+    "meanings": [
+      "hook",
+      "hooked stick"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hanebō"
+      ],
+      "hiragana": [
+        "はねぼう"
+      ],
+      "katakana": []
+    }
+  },
+  "亠": {
+    "kanji": "亠",
+    "meanings": [
+      "pot lid"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nabebuta"
+      ],
+      "hiragana": [
+        "なべぶた"
+      ],
+      "katakana": []
+    }
+  },
+  "人 ": {
+    "kanji": "人 (亻,𠆢)",
+    "meanings": [
+      "human"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hito"
+      ],
+      "hiragana": [
+        "ひと"
+      ],
+      "katakana": []
+    }
+  },
+  "儿": {
+    "kanji": "儿",
+    "meanings": [
+      "legs",
+      "human underneath"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ninnyō"
+      ],
+      "hiragana": [
+        "にんにょう"
+      ],
+      "katakana": []
+    }
+  },
+  "入 ": {
+    "kanji": "入 (𠆢)",
+    "meanings": [
+      "enter"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "iru"
+      ],
+      "hiragana": [
+        "いる"
+      ],
+      "katakana": []
+    }
+  },
+  "八 ": {
+    "kanji": "八 (ハ)",
+    "meanings": [
+      "eight",
+      "eight-head"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hachigashira"
+      ],
+      "hiragana": [
+        "はちがしら"
+      ],
+      "katakana": []
+    }
+  },
+  "冂": {
+    "kanji": "冂",
+    "meanings": [
+      "inverted box",
+      "window frame"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "makigamae"
+      ],
+      "hiragana": [
+        "まきがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "冖": {
+    "kanji": "冖",
+    "meanings": [
+      "cover"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "wakanmuri"
+      ],
+      "hiragana": [
+        "わかんむり"
+      ],
+      "katakana": []
+    }
+  },
+  "冫": {
+    "kanji": "冫",
+    "meanings": [
+      "ice",
+      "2-stroke water"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nisui"
+      ],
+      "hiragana": [
+        "にすい"
+      ],
+      "katakana": []
+    }
+  },
+  "几": {
+    "kanji": "几",
+    "meanings": [
+      "desk"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tsukue"
+      ],
+      "hiragana": [
+        "つくえ"
+      ],
+      "katakana": []
+    }
+  },
+  "凵": {
+    "kanji": "凵",
+    "meanings": [
+      "container",
+      "inbox"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ukebako"
+      ],
+      "hiragana": [
+        "うけばこ"
+      ],
+      "katakana": []
+    }
+  },
+  "刀 ": {
+    "kanji": "刀 (刂,⺈)",
+    "meanings": [
+      "sword"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "katana"
+      ],
+      "hiragana": [
+        "かたな"
+      ],
+      "katakana": []
+    }
+  },
+  "勹": {
+    "kanji": "勹",
+    "meanings": [
+      "embrace",
+      "wrap frame"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tsutsumigamae"
+      ],
+      "hiragana": [
+        "つつみがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "匕": {
+    "kanji": "匕",
+    "meanings": [
+      "spoon "
+    ],
+    "pronunciations": {
+      "romaji": [
+        "sajinohi"
+      ],
+      "hiragana": [
+        "さじのひ"
+      ],
+      "katakana": []
+    }
+  },
+  "匚": {
+    "kanji": "匚",
+    "meanings": [
+      "box frame"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hakogamae"
+      ],
+      "hiragana": [
+        "はこがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "亡 ": {
+    "kanji": "亡 (匸)",
+    "meanings": [
+      "dead",
+      "hiding frame"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kakushigamae"
+      ],
+      "hiragana": [
+        "かくしがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "卜 ": {
+    "kanji": "卜 (⼘,⺊)",
+    "meanings": [
+      "divination "
+    ],
+    "pronunciations": {
+      "romaji": [
+        "bokunoto"
+      ],
+      "hiragana": [
+        "ぼくのと"
+      ],
+      "katakana": []
+    }
+  },
+  "卩 ": {
+    "kanji": "卩 (㔾)",
+    "meanings": [
+      "seal"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "fushidzukuri"
+      ],
+      "hiragana": [
+        "ふしづくり"
+      ],
+      "katakana": []
+    }
+  },
+  "厂": {
+    "kanji": "厂",
+    "meanings": [
+      "cliff"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "gandare"
+      ],
+      "hiragana": [
+        "がんだれ"
+      ],
+      "katakana": []
+    }
+  },
+  "厶": {
+    "kanji": "厶",
+    "meanings": [
+      "private"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mu"
+      ],
+      "hiragana": [
+        "む"
+      ],
+      "katakana": []
+    }
+  },
+  "又": {
+    "kanji": "又",
+    "meanings": [
+      "again",
+      "right hand"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mata"
+      ],
+      "hiragana": [
+        "また"
+      ],
+      "katakana": []
+    }
+  },
+  "囗": {
+    "kanji": "囗",
+    "meanings": [
+      "enclosure"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kunigamae"
+      ],
+      "hiragana": [
+        "くにがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "士": {
+    "kanji": "士",
+    "meanings": [
+      "scholar",
+      "bachelor"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "samurai"
+      ],
+      "hiragana": [
+        "さむらい"
+      ],
+      "katakana": []
+    }
+  },
+  "夂": {
+    "kanji": "夂",
+    "meanings": [
+      "winter"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "fuyugashira"
+      ],
+      "hiragana": [
+        "ふゆがしら"
+      ],
+      "katakana": []
+    }
+  },
+  "夊": {
+    "kanji": "夊",
+    "meanings": [
+      "winter variant"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "suinyou"
+      ],
+      "hiragana": [
+        "すいにょう"
+      ],
+      "katakana": []
+    }
+  },
+  "宀": {
+    "kanji": "宀",
+    "meanings": [
+      "roof"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ukanmuri"
+      ],
+      "hiragana": [
+        "うかんむり"
+      ],
+      "katakana": []
+    }
+  },
+  "寸": {
+    "kanji": "寸",
+    "meanings": [
+      "sun (unit of measurement)"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "sun"
+      ],
+      "hiragana": [
+        "すん"
+      ],
+      "katakana": []
+    }
+  },
+  "小 ": {
+    "kanji": "小 (⺌, ⺍)",
+    "meanings": [
+      "small",
+      "insignificant"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "chīsai"
+      ],
+      "hiragana": [
+        "ちいさい"
+      ],
+      "katakana": []
+    }
+  },
+  "尢 ": {
+    "kanji": "尢 (尤,尣)",
+    "meanings": [
+      "lame"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mageashi"
+      ],
+      "hiragana": [
+        "まげあし"
+      ],
+      "katakana": []
+    }
+  },
+  "尸": {
+    "kanji": "尸",
+    "meanings": [
+      "corpse"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shikabane"
+      ],
+      "hiragana": [
+        "しかばね"
+      ],
+      "katakana": []
+    }
+  },
+  "屮": {
+    "kanji": "屮",
+    "meanings": [
+      "sprout"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tetsu"
+      ],
+      "hiragana": [
+        "てつ"
+      ],
+      "katakana": []
+    }
+  },
+  "巛 ": {
+    "kanji": "巛 (川,巜)",
+    "meanings": [
+      "river"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kawa"
+      ],
+      "hiragana": [
+        "かわ"
+      ],
+      "katakana": []
+    }
+  },
+  "已 ": {
+    "kanji": "已 (己,巳)",
+    "meanings": [
+      "oneself"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "onore"
+      ],
+      "hiragana": [
+        "おのれ"
+      ],
+      "katakana": []
+    }
+  },
+  "巾": {
+    "kanji": "巾",
+    "meanings": [
+      "cloth",
+      "turban",
+      "scarf"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "haba"
+      ],
+      "hiragana": [
+        "はば"
+      ],
+      "katakana": []
+    }
+  },
+  "干": {
+    "kanji": "干",
+    "meanings": [
+      "dry"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hoshi"
+      ],
+      "hiragana": [
+        "ほし"
+      ],
+      "katakana": []
+    }
+  },
+  "幺": {
+    "kanji": "幺",
+    "meanings": [
+      "short thread"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "itogashira"
+      ],
+      "hiragana": [
+        "いとがしら"
+      ],
+      "katakana": []
+    }
+  },
+  "广": {
+    "kanji": "广",
+    "meanings": [
+      "dotted cliff"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "madare"
+      ],
+      "hiragana": [
+        "まだれ"
+      ],
+      "katakana": []
+    }
+  },
+  "廴": {
+    "kanji": "廴",
+    "meanings": [
+      "long stride"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "innyō"
+      ],
+      "hiragana": [
+        "いんにょう"
+      ],
+      "katakana": []
+    }
+  },
+  "廾": {
+    "kanji": "廾",
+    "meanings": [
+      "two hands",
+      "twenty"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nijūashi"
+      ],
+      "hiragana": [
+        "にじゅうあし"
+      ],
+      "katakana": []
+    }
+  },
+  "弋": {
+    "kanji": "弋",
+    "meanings": [
+      "ceremony",
+      "shoot",
+      "arrow"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shikigamae"
+      ],
+      "hiragana": [
+        "しきがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "彐 ": {
+    "kanji": "彐 (彑)",
+    "meanings": [
+      "pig's head"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "keigashira"
+      ],
+      "hiragana": [
+        "けいがしら"
+      ],
+      "katakana": []
+    }
+  },
+  "彡": {
+    "kanji": "彡",
+    "meanings": [
+      "hair",
+      "bristle",
+      "stubble",
+      "beard"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "sandzukuri"
+      ],
+      "hiragana": [
+        "さんづくり"
+      ],
+      "katakana": []
+    }
+  },
+  "彳": {
+    "kanji": "彳",
+    "meanings": [
+      "step"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "gyouninben"
+      ],
+      "hiragana": [
+        "ぎょうにんべん"
+      ],
+      "katakana": []
+    }
+  },
+  "心 ": {
+    "kanji": "心 (忄,⺗)",
+    "meanings": [
+      "heart"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "risshinben"
+      ],
+      "hiragana": [
+        "りっしんべん"
+      ],
+      "katakana": []
+    }
+  },
+  "戈": {
+    "kanji": "戈",
+    "meanings": [
+      "spear",
+      "halberd"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kanohoko"
+      ],
+      "hiragana": [
+        "かのほこ"
+      ],
+      "katakana": []
+    }
+  },
+  "戸 ": {
+    "kanji": "戸 (戶,户)",
+    "meanings": [
+      "door",
+      "house"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tobiranoto"
+      ],
+      "hiragana": [
+        "とびらのと"
+      ],
+      "katakana": []
+    }
+  },
+  "手 ": {
+    "kanji": "手 (扌,龵)",
+    "meanings": [
+      "hand"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "te"
+      ],
+      "hiragana": [
+        "て"
+      ],
+      "katakana": []
+    }
+  },
+  "支": {
+    "kanji": "支",
+    "meanings": [
+      "branch"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shinyō"
+      ],
+      "hiragana": [
+        "しにょう"
+      ],
+      "katakana": []
+    }
+  },
+  "攵 ": {
+    "kanji": "攵 (攴)",
+    "meanings": [
+      "strike",
+      "whip"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nobun"
+      ],
+      "hiragana": [
+        "のぶん"
+      ],
+      "katakana": []
+    }
+  },
+  "斗": {
+    "kanji": "斗",
+    "meanings": [
+      "dipper",
+      "measuring scoop"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tomasu"
+      ],
+      "hiragana": [
+        "とます"
+      ],
+      "katakana": []
+    }
+  },
+  "斤": {
+    "kanji": "斤",
+    "meanings": [
+      "axe"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ono"
+      ],
+      "hiragana": [
+        "おの"
+      ],
+      "katakana": []
+    }
+  },
+  "无 ": {
+    "kanji": "无 (旡)",
+    "meanings": [
+      "have not"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "munyō"
+      ],
+      "hiragana": [
+        "むにょう"
+      ],
+      "katakana": []
+    }
+  },
+  "曰": {
+    "kanji": "曰",
+    "meanings": [
+      "say"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "iwaku"
+      ],
+      "hiragana": [
+        "いわく"
+      ],
+      "katakana": []
+    }
+  },
+  "月 ": {
+    "kanji": "月 (⺝)",
+    "meanings": [
+      "moon",
+      "month",
+      "; ",
+      "body",
+      "flesh"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tsuki"
+      ],
+      "hiragana": [
+        "つき"
+      ],
+      "katakana": []
+    }
+  },
+  "欠": {
+    "kanji": "欠",
+    "meanings": [
+      "yawn",
+      "lack"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "akubi"
+      ],
+      "hiragana": [
+        "あくび"
+      ],
+      "katakana": []
+    }
+  },
+  "歹 ": {
+    "kanji": "歹 (歺)",
+    "meanings": [
+      "death",
+      "decay"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "gatsuhen"
+      ],
+      "hiragana": [
+        "がつへん"
+      ],
+      "katakana": []
+    }
+  },
+  "殳": {
+    "kanji": "殳",
+    "meanings": [
+      "weapon",
+      "lance"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hokotsukuri"
+      ],
+      "hiragana": [
+        "ほこつくり"
+      ],
+      "katakana": []
+    }
+  },
+  "毋 ": {
+    "kanji": "毋 (母,⺟)",
+    "meanings": [
+      "do not",
+      "; ",
+      "mother"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "haha"
+      ],
+      "hiragana": [
+        "なかれ-nakare; はは"
+      ],
+      "katakana": []
+    }
+  },
+  "比": {
+    "kanji": "比",
+    "meanings": [
+      "compare",
+      "compete"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kuraberu"
+      ],
+      "hiragana": [
+        "くらべる"
+      ],
+      "katakana": []
+    }
+  },
+  "氏": {
+    "kanji": "氏",
+    "meanings": [
+      "clan"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "uji"
+      ],
+      "hiragana": [
+        "うじ"
+      ],
+      "katakana": []
+    }
+  },
+  "气": {
+    "kanji": "气",
+    "meanings": [
+      "steam",
+      "breath"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kigamae"
+      ],
+      "hiragana": [
+        "きがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "水 ": {
+    "kanji": "水 (氵,氺)",
+    "meanings": [
+      "water"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mizu"
+      ],
+      "hiragana": [
+        "みず"
+      ],
+      "katakana": []
+    }
+  },
+  "火 ": {
+    "kanji": "火 (灬)",
+    "meanings": [
+      "fire"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hi"
+      ],
+      "hiragana": [
+        "ひ"
+      ],
+      "katakana": []
+    }
+  },
+  "爪 ": {
+    "kanji": "爪 (爫,⺥,⺤)",
+    "meanings": [
+      "claw",
+      "nail",
+      "talon"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tsume"
+      ],
+      "hiragana": [
+        "つめ"
+      ],
+      "katakana": []
+    }
+  },
+  "爻": {
+    "kanji": "爻",
+    "meanings": [
+      "mix",
+      "twine",
+      "cross"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kō"
+      ],
+      "hiragana": [
+        "こう"
+      ],
+      "katakana": []
+    }
+  },
+  "爿 ": {
+    "kanji": "爿 (丬)",
+    "meanings": [
+      "split wood"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shōhen"
+      ],
+      "hiragana": [
+        "しょうへん"
+      ],
+      "katakana": []
+    }
+  },
+  "片": {
+    "kanji": "片",
+    "meanings": [
+      "(a) slice"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kata"
+      ],
+      "hiragana": [
+        "かた"
+      ],
+      "katakana": []
+    }
+  },
+  "牙": {
+    "kanji": "牙",
+    "meanings": [
+      "fang"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kibahen"
+      ],
+      "hiragana": [
+        "きばへん"
+      ],
+      "katakana": []
+    }
+  },
+  "牛 ": {
+    "kanji": "牛 (牜, ⺧)",
+    "meanings": [
+      "cow"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ushi"
+      ],
+      "hiragana": [
+        "うし"
+      ],
+      "katakana": []
+    }
+  },
+  "犬 ": {
+    "kanji": "犬 (犭)",
+    "meanings": [
+      "dog"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "inu"
+      ],
+      "hiragana": [
+        "いぬ"
+      ],
+      "katakana": []
+    }
+  },
+  "玄": {
+    "kanji": "玄",
+    "meanings": [
+      "dark",
+      "profound"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "gen"
+      ],
+      "hiragana": [
+        "げん"
+      ],
+      "katakana": []
+    }
+  },
+  "王 ": {
+    "kanji": "王 (玉, 玊, ⺩)",
+    "meanings": [
+      "king",
+      "; ",
+      "ball",
+      "jade"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tama"
+      ],
+      "hiragana": [
+        "おう-ō; たま"
+      ],
+      "katakana": []
+    }
+  },
+  "瓜": {
+    "kanji": "瓜",
+    "meanings": [
+      "melon"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "uri"
+      ],
+      "hiragana": [
+        "うり"
+      ],
+      "katakana": []
+    }
+  },
+  "瓦": {
+    "kanji": "瓦",
+    "meanings": [
+      "tile"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kawara"
+      ],
+      "hiragana": [
+        "かわら"
+      ],
+      "katakana": []
+    }
+  },
+  "甘": {
+    "kanji": "甘",
+    "meanings": [
+      "sweet"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "amai"
+      ],
+      "hiragana": [
+        "あまい"
+      ],
+      "katakana": []
+    }
+  },
+  "用 ": {
+    "kanji": "用 (甩)",
+    "meanings": [
+      "use",
+      "; ",
+      "(throw)"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mochīru"
+      ],
+      "hiragana": [
+        "もちいる"
+      ],
+      "katakana": []
+    }
+  },
+  "疋 ": {
+    "kanji": "疋 (⺪)",
+    "meanings": [
+      "bolt of cloth"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hiki"
+      ],
+      "hiragana": [
+        "ひき"
+      ],
+      "katakana": []
+    }
+  },
+  "疒": {
+    "kanji": "疒",
+    "meanings": [
+      "sickness"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "yamaidare"
+      ],
+      "hiragana": [
+        "やまいだれ"
+      ],
+      "katakana": []
+    }
+  },
+  "癶": {
+    "kanji": "癶",
+    "meanings": [
+      "footsteps"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hatsugashira"
+      ],
+      "hiragana": [
+        "はつがしら"
+      ],
+      "katakana": []
+    }
+  },
+  "皮": {
+    "kanji": "皮",
+    "meanings": [
+      "skin"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kegawa"
+      ],
+      "hiragana": [
+        "けがわ"
+      ],
+      "katakana": []
+    }
+  },
+  "皿": {
+    "kanji": "皿",
+    "meanings": [
+      "dish"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "sara"
+      ],
+      "hiragana": [
+        "さら"
+      ],
+      "katakana": []
+    }
+  },
+  "矛": {
+    "kanji": "矛",
+    "meanings": [
+      "spear",
+      "pike"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "munohoko"
+      ],
+      "hiragana": [
+        "むのほこ"
+      ],
+      "katakana": []
+    }
+  },
+  "示 ": {
+    "kanji": "示 (礻)",
+    "meanings": [
+      "altar",
+      "display"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shimesu"
+      ],
+      "hiragana": [
+        "しめす"
+      ],
+      "katakana": []
+    }
+  },
+  "禸": {
+    "kanji": "禸",
+    "meanings": [
+      "track"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "gūnoashi"
+      ],
+      "hiragana": [
+        "ぐうのあし"
+      ],
+      "katakana": []
+    }
+  },
+  "禾": {
+    "kanji": "禾",
+    "meanings": [
+      "two-branch tree"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nogi"
+      ],
+      "hiragana": [
+        "のぎ"
+      ],
+      "katakana": []
+    }
+  },
+  "穴": {
+    "kanji": "穴",
+    "meanings": [
+      "cave"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ana"
+      ],
+      "hiragana": [
+        "あな"
+      ],
+      "katakana": []
+    }
+  },
+  "竹 ": {
+    "kanji": "竹 (⺮)",
+    "meanings": [
+      "bamboo"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "take"
+      ],
+      "hiragana": [
+        "たけ"
+      ],
+      "katakana": []
+    }
+  },
+  "糸 ": {
+    "kanji": "糸 (糹)",
+    "meanings": [
+      "thread",
+      "string"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ito"
+      ],
+      "hiragana": [
+        "いと"
+      ],
+      "katakana": []
+    }
+  },
+  "缶": {
+    "kanji": "缶",
+    "meanings": [
+      "can",
+      "earthenware jar"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kan"
+      ],
+      "hiragana": [
+        "かん"
+      ],
+      "katakana": []
+    }
+  },
+  "罒 ": {
+    "kanji": "罒 (网,罓,⺲,⺳)",
+    "meanings": [
+      "net"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "amigashira"
+      ],
+      "hiragana": [
+        "あみがしら"
+      ],
+      "katakana": []
+    }
+  },
+  "羊 ": {
+    "kanji": "羊 (⺶,⺷)",
+    "meanings": [
+      "sheep"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hitsuji"
+      ],
+      "hiragana": [
+        "ひつじ"
+      ],
+      "katakana": []
+    }
+  },
+  "耂 ": {
+    "kanji": "耂 (老,⺹)",
+    "meanings": [
+      "old"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "rō"
+      ],
+      "hiragana": [
+        "ろう"
+      ],
+      "katakana": []
+    }
+  },
+  "而": {
+    "kanji": "而",
+    "meanings": [
+      "rake",
+      "beard"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shikashite"
+      ],
+      "hiragana": [
+        "しかして"
+      ],
+      "katakana": []
+    }
+  },
+  "耒": {
+    "kanji": "耒",
+    "meanings": [
+      "plow"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "raisuki"
+      ],
+      "hiragana": [
+        "らいすき"
+      ],
+      "katakana": []
+    }
+  },
+  "聿 ": {
+    "kanji": "聿 (⺻)",
+    "meanings": [
+      "brush"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "fudezukuri"
+      ],
+      "hiragana": [
+        "ふでづくり"
+      ],
+      "katakana": []
+    }
+  },
+  "肉 ": {
+    "kanji": "肉 (⺼,月)",
+    "meanings": [
+      "meat"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "niku"
+      ],
+      "hiragana": [
+        "にく"
+      ],
+      "katakana": []
+    }
+  },
+  "臣": {
+    "kanji": "臣",
+    "meanings": [
+      "minister",
+      "official"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shin"
+      ],
+      "hiragana": [
+        "しん"
+      ],
+      "katakana": []
+    }
+  },
+  "至": {
+    "kanji": "至",
+    "meanings": [
+      "arrive"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "itaru"
+      ],
+      "hiragana": [
+        "いたる"
+      ],
+      "katakana": []
+    }
+  },
+  "臼": {
+    "kanji": "臼",
+    "meanings": [
+      "mortar"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "usu"
+      ],
+      "hiragana": [
+        "うす"
+      ],
+      "katakana": []
+    }
+  },
+  "舌": {
+    "kanji": "舌",
+    "meanings": [
+      "tongue"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shita"
+      ],
+      "hiragana": [
+        "した"
+      ],
+      "katakana": []
+    }
+  },
+  "舛": {
+    "kanji": "舛",
+    "meanings": [
+      "opposite"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "masu"
+      ],
+      "hiragana": [
+        "ます"
+      ],
+      "katakana": []
+    }
+  },
+  "舟": {
+    "kanji": "舟",
+    "meanings": [
+      "boat"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "fune"
+      ],
+      "hiragana": [
+        "ふね"
+      ],
+      "katakana": []
+    }
+  },
+  "艮": {
+    "kanji": "艮",
+    "meanings": [
+      "stopping"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ushitora"
+      ],
+      "hiragana": [
+        "うしとら"
+      ],
+      "katakana": []
+    }
+  },
+  "艹 ": {
+    "kanji": "艹 (艸,䒑)",
+    "meanings": [
+      "grass",
+      "vegetation"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kusa"
+      ],
+      "hiragana": [
+        "くさ"
+      ],
+      "katakana": []
+    }
+  },
+  "虍": {
+    "kanji": "虍",
+    "meanings": [
+      "tiger stripes"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "torakanmuri"
+      ],
+      "hiragana": [
+        "とらかんむり"
+      ],
+      "katakana": []
+    }
+  },
+  "血": {
+    "kanji": "血",
+    "meanings": [
+      "blood"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "chi"
+      ],
+      "hiragana": [
+        "ち"
+      ],
+      "katakana": []
+    }
+  },
+  "衣 ": {
+    "kanji": "衣 (衤)",
+    "meanings": [
+      "clothes"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "koromo"
+      ],
+      "hiragana": [
+        "ころも"
+      ],
+      "katakana": []
+    }
+  },
+  "西 ": {
+    "kanji": "西 (襾,覀)",
+    "meanings": [
+      "west"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nishi"
+      ],
+      "hiragana": [
+        "にし"
+      ],
+      "katakana": []
+    }
+  },
+  "言 ": {
+    "kanji": "言 (訁)",
+    "meanings": [
+      "speech"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "koto"
+      ],
+      "hiragana": [
+        "こと"
+      ],
+      "katakana": []
+    }
+  },
+  "豆": {
+    "kanji": "豆",
+    "meanings": [
+      "bean"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mame"
+      ],
+      "hiragana": [
+        "まめ"
+      ],
+      "katakana": []
+    }
+  },
+  "豕": {
+    "kanji": "豕",
+    "meanings": [
+      "pig"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "inoko"
+      ],
+      "hiragana": [
+        "いのこ"
+      ],
+      "katakana": []
+    }
+  },
+  "豸": {
+    "kanji": "豸",
+    "meanings": [
+      "cat",
+      "badger"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mujina"
+      ],
+      "hiragana": [
+        "むじな"
+      ],
+      "katakana": []
+    }
+  },
+  "走 ": {
+    "kanji": "走 (赱)",
+    "meanings": [
+      "run"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hashiru"
+      ],
+      "hiragana": [
+        "はしる"
+      ],
+      "katakana": []
+    }
+  },
+  "足 ": {
+    "kanji": "足 (⻊)",
+    "meanings": [
+      "foot"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ashi"
+      ],
+      "hiragana": [
+        "あし"
+      ],
+      "katakana": []
+    }
+  },
+  "身": {
+    "kanji": "身",
+    "meanings": [
+      "body"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mi"
+      ],
+      "hiragana": [
+        "み"
+      ],
+      "katakana": []
+    }
+  },
+  "辛": {
+    "kanji": "辛",
+    "meanings": [
+      "spicy",
+      "bitter"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "karai"
+      ],
+      "hiragana": [
+        "からい"
+      ],
+      "katakana": []
+    }
+  },
+  "辰": {
+    "kanji": "辰",
+    "meanings": [
+      "morning"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shinnotatsu"
+      ],
+      "hiragana": [
+        "しんのたつ"
+      ],
+      "katakana": []
+    }
+  },
+  "⻌ ": {
+    "kanji": "⻌ (辵,辶)",
+    "meanings": [
+      "walk"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shinnyū"
+      ],
+      "hiragana": [
+        "しんにゅう"
+      ],
+      "katakana": []
+    }
+  },
+  "邑 ": {
+    "kanji": "邑 (⻏, 阝)",
+    "meanings": [
+      "town (阝 right)"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mura"
+      ],
+      "hiragana": [
+        "むら"
+      ],
+      "katakana": []
+    }
+  },
+  "酉": {
+    "kanji": "酉",
+    "meanings": [
+      "sake (rice-based alcoholic beverage)"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tori"
+      ],
+      "hiragana": [
+        "とり"
+      ],
+      "katakana": []
+    }
+  },
+  "釆": {
+    "kanji": "釆",
+    "meanings": [
+      "divide",
+      "distinguish",
+      "choose"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nogome"
+      ],
+      "hiragana": [
+        "のごめ"
+      ],
+      "katakana": []
+    }
+  },
+  "金 ": {
+    "kanji": "金 (釒)",
+    "meanings": [
+      "metal",
+      "gold"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kane"
+      ],
+      "hiragana": [
+        "かね"
+      ],
+      "katakana": []
+    }
+  },
+  "長 ": {
+    "kanji": "長 (镸)",
+    "meanings": [
+      "long",
+      "grow",
+      "; ",
+      "leader"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "chō"
+      ],
+      "hiragana": [
+        "ながい-nagai; ちょう"
+      ],
+      "katakana": []
+    }
+  },
+  "阜 ": {
+    "kanji": "阜 (⻖, 阝)",
+    "meanings": [
+      "mound",
+      "dam (阝 left)"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "gifunofu"
+      ],
+      "hiragana": [
+        "ぎふのふ"
+      ],
+      "katakana": []
+    }
+  },
+  "隶": {
+    "kanji": "隶",
+    "meanings": [
+      "slave",
+      "capture"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "reidzukuri"
+      ],
+      "hiragana": [
+        "れいづくり"
+      ],
+      "katakana": []
+    }
+  },
+  "隹": {
+    "kanji": "隹",
+    "meanings": [
+      "old bird"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "furutori"
+      ],
+      "hiragana": [
+        "ふるとり"
+      ],
+      "katakana": []
+    }
+  },
+  "雨 ": {
+    "kanji": "雨 (⻗)",
+    "meanings": [
+      "rain"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ame"
+      ],
+      "hiragana": [
+        "あめ"
+      ],
+      "katakana": []
+    }
+  },
+  "青 ": {
+    "kanji": "青 (靑)",
+    "meanings": [
+      "green",
+      "blue"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ao"
+      ],
+      "hiragana": [
+        "あお"
+      ],
+      "katakana": []
+    }
+  },
+  "非": {
+    "kanji": "非",
+    "meanings": [
+      "wrong"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "arazu"
+      ],
+      "hiragana": [
+        "あらず"
+      ],
+      "katakana": []
+    }
+  },
+  "面 ": {
+    "kanji": "面 (靣)",
+    "meanings": [
+      "face"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "men"
+      ],
+      "hiragana": [
+        "めん"
+      ],
+      "katakana": []
+    }
+  },
+  "革": {
+    "kanji": "革",
+    "meanings": [
+      "leather",
+      "rawhide"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kakunokawa"
+      ],
+      "hiragana": [
+        "かくのかわ"
+      ],
+      "katakana": []
+    }
+  },
+  "韋": {
+    "kanji": "韋",
+    "meanings": [
+      "tanned leather"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nameshigawa"
+      ],
+      "hiragana": [
+        "なめしがわ"
+      ],
+      "katakana": []
+    }
+  },
+  "韭": {
+    "kanji": "韭",
+    "meanings": [
+      "leek"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nira"
+      ],
+      "hiragana": [
+        "にら"
+      ],
+      "katakana": []
+    }
+  },
+  "頁": {
+    "kanji": "頁",
+    "meanings": [
+      "big shell"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ōgai"
+      ],
+      "hiragana": [
+        "おおがい"
+      ],
+      "katakana": []
+    }
+  },
+  "風 ": {
+    "kanji": "風 (𠘨)",
+    "meanings": [
+      "wind"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kaze"
+      ],
+      "hiragana": [
+        "かぜ"
+      ],
+      "katakana": []
+    }
+  },
+  "飛": {
+    "kanji": "飛",
+    "meanings": [
+      "fly"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tobu"
+      ],
+      "hiragana": [
+        "とぶ"
+      ],
+      "katakana": []
+    }
+  },
+  "食 ": {
+    "kanji": "食 (飠, 𩙿)",
+    "meanings": [
+      "eat",
+      "food"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shoku"
+      ],
+      "hiragana": [
+        "しょく"
+      ],
+      "katakana": []
+    }
+  },
+  "香": {
+    "kanji": "香",
+    "meanings": [
+      "fragrant"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nioikō"
+      ],
+      "hiragana": [
+        "においこう"
+      ],
+      "katakana": []
+    }
+  },
+  "骨": {
+    "kanji": "骨",
+    "meanings": [
+      "bone"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hone"
+      ],
+      "hiragana": [
+        "ほね"
+      ],
+      "katakana": []
+    }
+  },
+  "高 ": {
+    "kanji": "高 (髙)",
+    "meanings": [
+      "tall",
+      "high"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "takai"
+      ],
+      "hiragana": [
+        "たかい"
+      ],
+      "katakana": []
+    }
+  },
+  "髟": {
+    "kanji": "髟",
+    "meanings": [
+      "hair"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kamigashira"
+      ],
+      "hiragana": [
+        "かみがしら"
+      ],
+      "katakana": []
+    }
+  },
+  "鬥": {
+    "kanji": "鬥",
+    "meanings": [
+      "fight"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tōgamae"
+      ],
+      "hiragana": [
+        "とうがまえ"
+      ],
+      "katakana": []
+    }
+  },
+  "鬯": {
+    "kanji": "鬯",
+    "meanings": [
+      "herbs",
+      "sacrificial wine"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "chō"
+      ],
+      "hiragana": [
+        "ちょう"
+      ],
+      "katakana": []
+    }
+  },
+  "鬲": {
+    "kanji": "鬲",
+    "meanings": [
+      "tripod",
+      "cauldron"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kanae"
+      ],
+      "hiragana": [
+        "かなえ"
+      ],
+      "katakana": []
+    }
+  },
+  "鬼": {
+    "kanji": "鬼",
+    "meanings": [
+      "ghost",
+      "demon"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "oni"
+      ],
+      "hiragana": [
+        "おに"
+      ],
+      "katakana": []
+    }
+  },
+  "鹵": {
+    "kanji": "鹵",
+    "meanings": [
+      "salt"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ro"
+      ],
+      "hiragana": [
+        "ろ"
+      ],
+      "katakana": []
+    }
+  },
+  "鹿": {
+    "kanji": "鹿",
+    "meanings": [
+      "deer"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "shika"
+      ],
+      "hiragana": [
+        "しか"
+      ],
+      "katakana": []
+    }
+  },
+  "麦 ": {
+    "kanji": "麦 (麥)",
+    "meanings": [
+      "wheat"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "mugi"
+      ],
+      "hiragana": [
+        "むぎ"
+      ],
+      "katakana": []
+    }
+  },
+  "麻": {
+    "kanji": "麻",
+    "meanings": [
+      "hemp",
+      "flax"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "asa"
+      ],
+      "hiragana": [
+        "あさ"
+      ],
+      "katakana": []
+    }
+  },
+  "黄 ": {
+    "kanji": "黄 (黃)",
+    "meanings": [
+      "yellow"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kīro"
+      ],
+      "hiragana": [
+        "きいろ"
+      ],
+      "katakana": []
+    }
+  },
+  "黍": {
+    "kanji": "黍",
+    "meanings": [
+      "millet"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kibi"
+      ],
+      "hiragana": [
+        "きび"
+      ],
+      "katakana": []
+    }
+  },
+  "黒 ": {
+    "kanji": "黒 (黑)",
+    "meanings": [
+      "black"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kuro"
+      ],
+      "hiragana": [
+        "くろ"
+      ],
+      "katakana": []
+    }
+  },
+  "黹": {
+    "kanji": "黹",
+    "meanings": [
+      "embroidery",
+      "needlework"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "futsu"
+      ],
+      "hiragana": [
+        "ふつ"
+      ],
+      "katakana": []
+    }
+  },
+  "黽": {
+    "kanji": "黽",
+    "meanings": [
+      "frog",
+      "amphibian"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ben"
+      ],
+      "hiragana": [
+        "べん"
+      ],
+      "katakana": []
+    }
+  },
+  "鼎": {
+    "kanji": "鼎",
+    "meanings": [
+      "sacrificial tripod"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kanae"
+      ],
+      "hiragana": [
+        "かなえ"
+      ],
+      "katakana": []
+    }
+  },
+  "鼓": {
+    "kanji": "鼓",
+    "meanings": [
+      "drum"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "tsudzumi"
+      ],
+      "hiragana": [
+        "つづみ"
+      ],
+      "katakana": []
+    }
+  },
+  "鼠": {
+    "kanji": "鼠",
+    "meanings": [
+      "rat",
+      "mouse"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "nezumi"
+      ],
+      "hiragana": [
+        "ねずみ"
+      ],
+      "katakana": []
+    }
+  },
+  "鼻": {
+    "kanji": "鼻",
+    "meanings": [
+      "nose"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "hana"
+      ],
+      "hiragana": [
+        "はな"
+      ],
+      "katakana": []
+    }
+  },
+  "齊": {
+    "kanji": "齊",
+    "meanings": [
+      "even",
+      "uniformly"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "sei"
+      ],
+      "hiragana": [
+        "せい"
+      ],
+      "katakana": []
+    }
+  },
+  "歯 ": {
+    "kanji": "歯 (齒)",
+    "meanings": [
+      "tooth",
+      "molar"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ha"
+      ],
+      "hiragana": [
+        "は"
+      ],
+      "katakana": []
+    }
+  },
+  "竜 ": {
+    "kanji": "竜 (龍)",
+    "meanings": [
+      "dragon"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "ryū"
+      ],
+      "hiragana": [
+        "りゅう"
+      ],
+      "katakana": []
+    }
+  },
+  "亀 ": {
+    "kanji": "亀 (龜)",
+    "meanings": [
+      "turtle",
+      "tortoise"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "kame"
+      ],
+      "hiragana": [
+        "かめ"
+      ],
+      "katakana": []
+    }
+  },
+  "龠": {
+    "kanji": "龠",
+    "meanings": [
+      "flute"
+    ],
+    "pronunciations": {
+      "romaji": [
+        "yaku"
+      ],
+      "hiragana": [
+        "やく"
+      ],
+      "katakana": []
+    }
+  }
+}

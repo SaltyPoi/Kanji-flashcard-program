@@ -1,47 +1,51 @@
 import * as React from 'react';
 import { connect } from 'react-redux';
 
-import { sendMessage } from '../../ipc/ipcRenderer/ipcRenderer';
-import { messageLoadDeck } from '../../ipc/ipcRenderer/ipcRendererMessages';
 import { getDeck, nextCard } from '../../store/actions/deckActions';
 import { deckReducerState } from '../../store/reducers/deckReducer';
 import { rootReducerState } from '../../store/rootReducer';
-import { deckType } from '../../typings/common';
 import FlashCard from './FlashCard';
 
 interface StateProps {
-    deck: deckReducerState;
+  deck: deckReducerState;
 }
 
 interface DispatchProps {
-    getDeck: () => void;
-    nextCard: () => void;
+  getDeck: () => void;
+  nextCard: () => void;
+  displayNextCard: () => void;
 }
 
 interface Props extends StateProps, DispatchProps {}
 
 export const FlashCardsContainer: React.FC<Props> = ({
-    deck: { currentCard, currentCardIndex, numberOfCards }
+  deck: { currentCard, currentCardIndex, numberOfCards }
 }) => {
-    return (
-        <div className="flash-card-container">
-            {currentCard && (
-                <FlashCard currentCardIndex={currentCardIndex} numberOfCards={numberOfCards} />
-            )}
-        </div>
-    );
+  return (
+    <div className="flash-card-container">
+      {currentCard && (
+        <FlashCard
+          currentCardIndex={currentCardIndex}
+          numberOfCards={numberOfCards}
+        />
+      )}
+    </div>
+  );
 };
 
 const mapStateToProps = (state: rootReducerState) => ({
-    deck: state.deck,
-    ui: state.ui
+  deck: state.deck,
+  ui: state.ui
 });
 
-const mapDispatchToProps = (dispatch) => ({
-    nextCard: dispatch(nextCard())
+const mapDispatchToProps = dispatch => ({
+  nextCard: dispatch(nextCard())
 });
 
-export default connect<StateProps, DispatchProps>(mapStateToProps, {
+export default connect<StateProps, DispatchProps>(
+  mapStateToProps,
+  {
     ...mapDispatchToProps,
     getDeck
-})(FlashCardsContainer);
+  }
+)(FlashCardsContainer);

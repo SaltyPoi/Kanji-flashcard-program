@@ -13,17 +13,17 @@ export const reshuffleDeck = () => createAction('SHUFFLE_DECK');
 export const nextCard = () => createAction('NEXT_CARD');
 
 ipcRenderer.on('loadDeck', (event, { deck }) => {
-    store.dispatch(loadDeck(deck));
-    store.dispatch(enableButtons);
+  store.dispatch(loadDeck(deck));
+  store.dispatch(enableButtons);
 });
 
 ipcRenderer.on('loadDeckFailed', () => {
-    store.dispatch(enableButtons);
+  store.dispatch(enableButtons);
 });
 
 export const getDeck = (loadLastDeck = true) => {
-    return (dispatch) => {
-        dispatch(disableButtons);
-        sendMessage(messageLoadDeck(loadLastDeck));
-    };
+  return dispatch => {
+    dispatch(disableButtons);
+    sendMessage(messageLoadDeck(loadLastDeck));
+  };
 };

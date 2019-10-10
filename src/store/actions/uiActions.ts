@@ -1,7 +1,5 @@
 import { createAction } from '../common/actionHelper';
 import { ipcRenderer } from 'electron';
-import { messageToggleAlwaysOnTop } from '../../ipc/ipcRenderer/ipcRendererMessages';
-import { sendMessage } from '../../ipc/ipcRenderer/ipcRenderer';
 import { store } from '../store';
 import { settingsType } from '../../typings/settings';
 
@@ -19,9 +17,3 @@ ipcRenderer.on('windowToggleAlwaysOnTop', (event, isAlwaysOnTop) => {
 ipcRenderer.on('getSettings', (event, settings: settingsType) => {
     store.dispatch(setWindowPin(settings.isWindowPinned ? settings.isWindowPinned : false));
 });
-
-export const checkAndSetWindowPin = () => {
-    return (dispatch) => {
-        sendMessage(messageToggleAlwaysOnTop());
-    };
-};

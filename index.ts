@@ -1,5 +1,3 @@
-import './src/helpers/deckHelper/deckHelper';
-
 import { app, BrowserWindow } from 'electron';
 
 import { saveDefaultDecks } from './src/helpers/deckHelper/deckHelper';

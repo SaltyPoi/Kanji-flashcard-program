@@ -35,7 +35,7 @@ export const ButtonContainer: React.FC<Props> = ({ getDeck, buttonsEnabled, curr
 
 const mapStateToProps = (state: rootReducerState) => ({
     buttonsEnabled: state.ui.buttonsEnabled,
-    currentKanji: state.deck.currentCard!.kanji
+    currentKanji: state.deck.currentCard!.kanji || ''
 });
 
 export default connect<StateProps, DispatchProps>(mapStateToProps, { getDeck })(ButtonContainer);

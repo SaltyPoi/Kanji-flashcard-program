@@ -1,11 +1,10 @@
 export interface uiReducerState {
     buttonsEnabled: boolean;
-    windowPinned: boolean;
+    windowPinned?: boolean;
 }
 
 const initalState: uiReducerState = {
-    buttonsEnabled: true,
-    windowPinned: false
+    buttonsEnabled: true
 };
 
 export const uiReducer = (
